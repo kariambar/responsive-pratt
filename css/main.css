@@ -97,3 +97,18 @@ label{
 #max{
 	height: 50%;
 }
+
+footer{
+	background-color: #000000;
+	height: 10vh;
+}
+
+.final{
+	color: white;
+	font-size: 14px;
+}
+
+span{
+	color: #009688;
+	font-size: 14px;
+}
