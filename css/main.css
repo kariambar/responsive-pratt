@@ -74,3 +74,26 @@ p{
 	width: 100%;
 	padding: 10rem;
 }
+
+
+.five-section{
+	background-color: #2f2f2f;
+	width: 100%;
+	padding: 10rem;
+}
+.medio{
+	color: white;
+}
+.mediano{
+	color: white;
+	font-size: 14px;
+}
+
+label{
+	color: white;
+	font-weight: 300;
+}
+
+#max{
+	height: 50%;
+}
