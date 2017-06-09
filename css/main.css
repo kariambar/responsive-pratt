@@ -66,3 +66,11 @@ p{
 	color:#009dc5;
 	font-size: 18px;
 }
+
+.four-section{
+	background-color: #34495e;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	padding: 10rem;
+}
